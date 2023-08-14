@@ -4,7 +4,7 @@ edit=EditBot('mybot')
 #function create bot
 create=CreateBot('mybot')
 #here token
-create.tokenFb("EAAN8ZATU4VNQBO6QG0JkfFv4hQXTyB2W6RlIvJ4nSN6xjwsZAbf4HJ2I25LavxSWiKOH9hAHVggHByJsZCxdnfwB1oD7DWfQjdlVNYhf9mmZBxl3LCI7PznUjW5nZARozOh8SRgRFajjt9aMXaOkHHVMRRLef9dPPiIY2myV3AA07EaKeWQOmuEclIDtMVJQq7ZCsZD","123456")
+create.tokenFb("ACCESS_TOKEN","VERYFY_TOKEN")
 #here add any code for event
 create.event(''' 
 def mychat_fun(chat_me):
